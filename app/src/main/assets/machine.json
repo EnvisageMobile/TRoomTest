@@ -1,0 +1,46 @@
+{
+    "results": [
+        {
+          "name" : "Test1",
+          "description": "No. 10, MG Road, Chinnaswamy Stadium, Shanthala Nagar, Bengaluru 560001"
+        },
+        {
+          "name" : "Test2",
+          "description": "Ground Floor,The Residency,133/1 Residency Road, Near The Chancery Pavilion Hotel, Bangalore"
+        },
+
+        {
+          "name" : "Test3",
+          "description": "# 112, 566, M S Plaza,3rd Floor 13 A Cross, Opposite Telephone Exchange, Near S R Nagar Police Station, 4th Main Road, Sampangi Rama Nagar, Bengaluru"
+        },
+
+        {
+          "name" : "Test4",
+          "description": "Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru"
+        },
+
+        {
+          "name" : "Test5",
+          "description": "2, St Joseph's Indian High School Campus, Opposite-U B City, Vittal Mallya Road, Bengaluru"
+        },
+
+        {
+          "name" : "Test6",
+          "description": "114, Parangipalya, 24th Main Road, Sector2, Housar Layout, Housar Layout, Bengaluru"
+        },
+
+        {
+          "name" : "Test7",
+          "description": "MS Plaza, 4th Main Road, Sampangi Rama Nagar, Bengaluru"
+        },
+        {
+          "name" : "Test8",
+          "description": "MS Plaza, 4th Main Road, Sampangi Rama Nagar, Bengaluru"
+        },
+        {
+          "name" : "Test9",
+          "description": "MS Plaza, 4th Main Road, Sampangi Rama Nagar, Bengaluru"
+        }
+      ]
+
+}
